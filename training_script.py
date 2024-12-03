@@ -8,7 +8,7 @@ import ast
 import numpy as np
 import json
 
-from psuedoimage_generator import *
+from pseudoimage_generator import *
 from cnn_architecture import *
 
 

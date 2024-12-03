@@ -6,7 +6,7 @@ import torch.optim as optim
 import os
 import json
 
-from psuedoimage_generator import *
+from pseudoimage_generator import *
 
 save_dir = "./pseudos"
 
