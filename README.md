@@ -4,8 +4,8 @@ Code for psuedoimage generation, SSD head, model training, and data generation
 
 # Data Files:    
 
-    - 20 raw point cloud frames (taken from Carnegie Mellon Racing's dataset) - actual_data
-    - 20 txt files with bounding box coordinates for corresponding model predictions 
+    1. 20 raw point cloud frames (taken from Carnegie Mellon Racing's dataset) - actual_data
+    2. 20 txt files with bounding box coordinates for corresponding model predictions 
 
 # Code Files: 
 
